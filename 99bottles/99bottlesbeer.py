@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 for i in range(99, 0, -1):
     if i == 1:
         print("1 bottle of beer on the wall, 1 bottle of beer!")
